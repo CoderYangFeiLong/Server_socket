@@ -5,5 +5,5 @@ TCP/IP based Server socket implementation
 https://github.com/CoderYangFeiLong/socket_client
 
 # screen shot
-<div align=left><img width="320" height="400" src="https://raw.githubusercontent.com/CoderYangFeiLong/Server_socket/master/ServerSocket/ServerSocket/effects/efects.png"/></div>
+<div align=left><img width="200" height="600" src="https://raw.githubusercontent.com/CoderYangFeiLong/Server_socket/master/ServerSocket/ServerSocket/effects/efects.png"/></div>
 
