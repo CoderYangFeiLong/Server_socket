@@ -1,2 +1,4 @@
-# Server_socket
-TCP/IP based client socket implementation 
+# Server socket
+TCP/IP based Server socket implementation 
+
+# Client socket
